@@ -30,23 +30,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+
+  <h3 align="center">Foundry FundMe</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A crowdsourcing DAPP built to deploy on Ethereum.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/0x5am/foundry-fund-me"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/0x5am/foundry-fund-me">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/0x5am/foundry-fund-me/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/0x5am/foundry-fund-me/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -70,11 +68,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#deploy">Deploy</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -83,18 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+This project was created in conjunction with Patrick Collins as part of Cyfrin's Updraft solidity course. This is a simple smart contract which allows crowdsourcing on the Ethereum mainnet. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +171,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/0x5am/foundry-fund-me.svg?style=for-the-badge
 [license-url]: https://github.com/0x5am/foundry-fund-me/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/sam-cheetham-b8a58b1a5/
 [Solidity.logo]: https://img.shields.io/badge/solidity-%5E0.8.0-orange
 [Solidity-url]: https://soliditylang.org/
