@@ -229,9 +229,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sam Cheetham - [@_0x5am](https://x.com/_0x5am_)
+[@_0x5am](https://x.com/_0x5am_)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[https://github.com/0x5am/foundry-fund-me](https://github.com/0x5am/foundry-fund-me)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
